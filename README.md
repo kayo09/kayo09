@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://kayparmar.com/](https://kayparmar.com/)
 
-- ⚡ Fun fact **I can run while playing chess and strumming my guitar, and i have 3 braincells 👾**
+- ⚡ Fun fact **I sometimes write poetry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
