@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [tinygrad](https://github.com/tinygrad/tinygrad)
 
-- 🤝 I’m looking for help with [forecast stocks](https://github.com/kayo09/Forecast-Stocks)
+- 🤝 I’m looking for help with [mood tracker](https://github.com/kayo09/mood_tracker)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kayo09](https://github.com/kayo09)
 
