@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kayo09" alt="kayo09" /></a> </p>
 
-- 🔭 I’m currently working on [scikit Learn](https://github.com/scikit-learn/scikit-learn)
+- 🔭 I’m currently working on [Google Summer Of Code](https://github.com/kayo09/gsoc_2025)
 
-- 🌱 I’m currently learning [tinygrad](https://github.com/tinygrad/tinygrad), [ hadoop](https://github.com/apache/hadoop)
+- 🌱 I’m currently learning [tinygrad](https://github.com/tinygrad/tinygrad), [life](https://en.wikipedia.org/wiki/Life)
 
 - 👯 I’m looking to collaborate on [tinygrad](https://github.com/tinygrad/tinygrad)
 
@@ -15,15 +15,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kayo09](https://github.com/kayo09)
 
-- 📝 I regularly write articles on [https://bikehandle69.substack.com/](https://bikehandle69.substack.com/)
-
-- 💬 Ask me about **tensorflow , keras, pandas, pytorch, python, c 👀, java**
+- 💬 Ask me about **the symmetry of nature and conservation laws**
 
 - 📫 How to reach me **thisiskay@kayparmar.com**
 
 - 📄 Know about my experiences [https://kayparmar.com/](https://kayparmar.com/)
 
-- ⚡ Fun fact **I sometimes write poetry**
+- ⚡ Fun fact **I am unemployed atm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
