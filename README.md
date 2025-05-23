@@ -5,23 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kayo09" alt="kayo09" /></a> </p>
 
-- 🔭 I’m currently working on [Google Summer Of Code](https://github.com/kayo09/gsoc_2025)
+- 🔭 I’m currently not working on [Google Summer Of Code](https://github.com/kayo09/gsoc_2025)
 
-- 🌱 I’m currently learning [tinygrad](https://github.com/tinygrad/tinygrad), [life](https://en.wikipedia.org/wiki/Life)
+- 🌱 I’m currently learning sometimes [tinygrad](https://github.com/tinygrad/tinygrad), [life](https://en.wikipedia.org/wiki/Life)
 
-- 👯 I’m looking to collaborate on [tinygrad](https://github.com/tinygrad/tinygrad)
+- 👯 I’m looking to collaborate on something that creates value
 
 - 🤝 I’m looking for help with [mood tracker](https://github.com/kayo09/mood_tracker)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kayo09](https://github.com/kayo09)
 
-- 💬 Ask me about **the symmetry of nature and conservation laws**
+- 💬 Ask me about **the time we killed Alan Turing,** actually don't
 
 - 📫 How to reach me **thisiskay@kayparmar.com**
 
 - 📄 Know about my experiences [https://kayparmar.com/](https://kayparmar.com/)
 
-- ⚡ Fun fact **I am unemployed atm**
+- ⚡ Fun fact **I am unemployed atm** and getting by :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
