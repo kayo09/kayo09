@@ -50,7 +50,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:thisiskay@kayparmar.com"><img src="https://img.shields.io/badge/Email-krutarth.ai@proton.me-informational?style=flat&logo=gmail"/></a>
+  <a href="mailto:thisiskay@kayparmar.com"><img src="https://img.shields.io/badge/Email-thisiskay@kayparmar.com-symbol?style=flat&logo=gmail"/></a>
   <a href="https://www.linkedin.com/in/krutarth-p-73084b216/"><img src="https://img.shields.io/badge/LinkedIn-krutarth parmar-blue?style=flat&logo=linkedin"/></a>
   <a href="https://kayparmar.com"><img src="https://img.shields.io/badge/Portfolio-kayparmar.com-critical?style=flat&logo=google-chrome"/></a>
 </p>
