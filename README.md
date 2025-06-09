@@ -34,11 +34,6 @@
 | **Procedural Cicada Model**    | High‑fidelity Blender asset driven by math scripts                  | Blender • Python (bpy) |
 | **Mood Tracker App**           | Cross‑platform mental‑health journaling with analytics              | Flutter • Firebase     |
 
-## 🏆 Recent Highlights & Achievements
-
-* Top 5 % in *Kaggle “OpenAI to Z Challenge”* 2025.
-* Multiple medium‑severity vulnerability reports on **HackerOne** & **Synack**.
-* Invited speaker at Concordia AI Club on *“Deploying RAG pipelines in production”*.
 
 ## 📈 GitHub Stats
 
